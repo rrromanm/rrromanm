@@ -1,24 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Romans Mihalonoks
-=========================================================================================================================================
+<!-- Profile Heading -->
+<h1 align="center">Hi, I'm Romans Mihalonoks 👋</h1>
+<h3 align="center">A passionate Software Engineering student always exploring and experimenting with code</h3>
 
-Software Engineering Student
-----------------------------
-
-I've been in coding since a young age. However, I never decided to take it seriously and learn how to code. In 2023, I graduated High School in Spain and knew that I should apply for Software Engineering.
-
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [roma.mihalonok@gmail.com](mailto:roma.mihalonok@gmail.com)
-* 🧠  I'm learning HTML, CSS, Java & JavaScript
-* 🤝  I'm open to collaborating on Web development
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<!-- Badges: GitHub Stats, Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rrromanm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rrromanm?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rrromanm?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-### Socials
+<!-- About Me Section -->
+## 🚀 About Me
+I'm a software engineering student fascinated by new technologies and innovative projects. My focus lies in backend development and front-end frameworks. Constantly learning, I’m committed to developing efficient and scalable solutions. Some quick highlights:
+- 🔭 Currently working on: **[YapperWebApp](https://github.com/rrromanm/YapperWebApp)**
+- 🌱 Learning: **[C#/Blazor]**
+- ⚡ Fun fact: I’m also a sport enthusiast!
 
-<p align="left"> <a href="https://www.facebook.com/romans.mihalonoks.5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.github.com/rrromanm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rrromanm/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/> </picture> </a>
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-%23EA8600.svg?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Blazor-%23005C7C.svg?style=flat&logo=dotnet&logoColor=white" />
+</p>
 
-  
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rrromanm&show_icons=true&theme=github_dark" alt="YourUsername GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrromanm&theme=github_dark" alt="YourUsername Streak Stats" />
+</p>
+
+<!-- Top Languages -->
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrromanm&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<!-- Projects Showcase -->
+## 🚀 Projects
+Here are a few projects that I've worked on recently:
+1. **[BookWorm](https://github.com/rrromanm/BookWorm)** - Software that provides easier management for librarians and more accessible services for patrons. (Java & PostgreSQL)
+2. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website (React)
+3. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game (React, Web API)
+
+<!-- Connect with me -->
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/rrromanm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:roma.mihalonok@gmail"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
