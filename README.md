@@ -30,16 +30,6 @@ I'm a software engineering student fascinated by new technologies and innovative
   <img src="https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Blazor-%23005C7C.svg?style=flat&logo=dotnet&logoColor=white" />
 </p>
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrromanm&show_icons=true&theme=github_dark" alt="YourUsername GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrromanm&theme=github_dark" alt="YourUsername Streak Stats" />
-</p>
-
 <!-- Top Languages -->
 ## 💻 Top Languages
 <p align="center">
@@ -53,9 +43,3 @@ Here are a few projects that I've worked on recently:
 2. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website (React)
 3. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game (React, Web API)
 
-<!-- Connect with me -->
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/rrromanm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:roma.mihalonok@gmail"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
