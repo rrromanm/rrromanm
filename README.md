@@ -39,7 +39,8 @@ I'm a software engineering student fascinated by new technologies and innovative
 <!-- Projects Showcase -->
 ## 🚀 Projects
 Here are a few projects that I've worked on recently:
-1. **[BookWorm](https://github.com/rrromanm/BookWorm)** - Software that provides easier management for librarians and more accessible services for patrons. (Java & PostgreSQL)
-2. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website (React)
-3. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game (React, Web API)
+1. **[YapperWebApp](https://github.com/rrromanm/YapperWebApp)** - Simple, ad-free and data collection-free social media platform. (C#, Java, PostgreSQL, gRPC, REST & RabbitMQ)
+2. **[BookWorm](https://github.com/rrromanm/BookWorm)** - Software that provides easier management for librarians and more accessible services for patrons. (Java & PostgreSQL)
+3. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website (React)
+4. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game (React, Web API)
 
