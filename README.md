@@ -11,10 +11,8 @@
 
 <!-- About Me Section -->
 ## 🚀 About Me
-I'm a software engineering student fascinated by new technologies and innovative projects. My focus lies in backend development and front-end frameworks. Constantly learning, I’m committed to developing efficient and scalable solutions. Some quick highlights:
-- 🔭 Currently working on: **[YapperWebApp](https://github.com/rrromanm/YapperWebApp)**
-- 🌱 Learning: **[C#/Blazor]**
-- ⚡ Fun fact: I’m also a sport enthusiast!
+I'm a software engineering student fascinated by new technologies and innovative projects. My focus lies in backend development and front-end frameworks. Constantly learning, I’m committed to developing efficient and scalable solutions. I'm currently learning 
+**[C/Phython/Docker]**.
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
