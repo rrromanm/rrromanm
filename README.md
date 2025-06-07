@@ -50,17 +50,19 @@ my mind sharp.
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23172b4d.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 <!-- Projects Showcase -->
-## 🚀 Projects
+<!-- ## 🚀 Projects
 ### 🛠 Currently Working On
 - **[GrowMate (Backend)](https://github.com/SEP4-2025/backend-sep4)**  
   Backend system for a collaborative semester project focused on sustainability and IoT.  
   ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
-
+  -->
   
-### 📦 Completed Projects
-1. **[YapperWebApp](https://github.com/rrromanm/YapperWebApp)** - Simple, ad-free and data collection-free social media platform made with Java and C#.
-2. **[BookWorm](https://github.com/rrromanm/BookWorm)** - Software that provides easier management for librarians and more accessible services for patrons build with Java
-3. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website build with React and deployed with Netlify
-4. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game with API Requests
+### 📦 Projects
+1. **[GrowMate (Backend)](https://github.com/SEP4-2025/backend-sep4)** - Multi-sensor greenhouse where the plant care
+process is automated and monitored through a website.
+2. **[YapperWebApp](https://github.com/rrromanm/YapperWebApp)** - Simple, ad-free and data collection-free social media platform made with Java and C#.
+3. **[BookWorm](https://github.com/rrromanm/BookWorm)** - Software that provides easier management for librarians and more accessible services for patrons build with Java
+4. **[KRN Portfolio](https://github.com/rrromanm/krn-portfolio)** - Photographer portfolio website build with React and deployed with Netlify
+5. **[Flag Game](https://github.com/rrromanm/flag-game)** - Guess the country game with API Requests
 
