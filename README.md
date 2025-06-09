@@ -52,7 +52,7 @@ my mind sharp.
 <!-- Projects Showcase -->
 ## 🚀 Projects
 ### 🛠 Currently Working On
-- **[My Portfolio](https://github.com/SEP4-2025/portfolio-dev)**  
+- **[My Portfolio](https://github.com/rrromanm/portfolio-dev)**  
   Building my personal portfolio website and deploying it with GitHub Pages. <br>
   ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
