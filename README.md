@@ -49,15 +49,6 @@ my mind sharp.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230074b6.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23172b4d.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
-<!-- Projects Showcase -->
-## 🚀 Projects
-### 🛠 Currently Working On
-- **[My Portfolio](https://github.com/rrromanm/portfolio-dev)**  
-  Building my personal portfolio website and deploying it with GitHub Pages. <br>
-  ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-  
 ### 📦 What I've built
 1. **[GrowMate (Backend)](https://github.com/SEP4-2025/backend-sep4)** - Multi-sensor greenhouse where the plant care
 process is automated and monitored through a website.
